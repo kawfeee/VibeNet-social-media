@@ -14,6 +14,10 @@ import { Button } from "./ui/button";
 import { HeartIcon, LogInIcon, MessageCircleIcon, SendIcon } from "lucide-react";
 import { Textarea } from "./ui/textarea";
 
+type Posts = Awaited<ReturnType<typeof getPosts>>;
+type Post = Posts[number];
+
+
 
 function PostCard({post, dbUserId} : {post:Post; dbUserId:string | null }) {
   const { user } = useUser();
