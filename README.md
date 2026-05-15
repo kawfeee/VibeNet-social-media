@@ -9,13 +9,8 @@ This project allows users to create posts, upload media, like posts, comment, fo
 
 ## 🚀 Live Demo
 
-🔗 [Live Website](YOUR_LIVE_LINK_HERE)
+🔗 [Live Website]([YOUR_LIVE_LINK_HERE](https://vibe-net-social-media.vercel.app/))
 
-## 📂 GitHub Repository
-
-🔗 [GitHub Repository](YOUR_GITHUB_LINK_HERE)
-
----
 
 # 📸 Features
 
@@ -185,17 +180,6 @@ While building this project, I learned:
 
 ---
 
-# 📚 Credits
-
-This project was built by following and learning from the amazing tutorial by Codesistency:
-
-🎥 YouTube Tutorial:
-[https://www.youtube.com/watch?v=vUYopHWOURg&t=15455s](https://www.youtube.com/watch?v=vUYopHWOURg&t=15455s)
-
-The project was recreated, customized, and extended for learning and portfolio purposes.
-
----
-
 # 🌐 Deployment
 
 The application can be deployed easily on:
@@ -256,13 +240,11 @@ If you liked this project:
 
 **Kaif**
 
-* LinkedIn: YOUR_LINKEDIN
-* GitHub: YOUR_GITHUB
+* LinkedIn: [MY_LINKEDIN](https://www.linkedin.com/in/kaifalikhan/)
+* GitHub: [MY_GITHUB](https://github.com/kawfeee)
 
 ---
 
 ```
-
-This project uses technologies and concepts commonly demonstrated in modern Next.js + Prisma + Clerk tutorials. :contentReference[oaicite:0]{index=0}
 ::contentReference[oaicite:1]{index=1}
 ```
