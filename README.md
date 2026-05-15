@@ -9,7 +9,7 @@ This project allows users to create posts, upload media, like posts, comment, fo
 
 ## 🚀 Live Demo
 
-🔗 [Live Website]([YOUR_LIVE_LINK_HERE](https://vibe-net-social-media.vercel.app/))
+🔗 [Live Website] - (https://vibe-net-social-media.vercel.app/)
 
 
 # 📸 Features
@@ -240,8 +240,8 @@ If you liked this project:
 
 **Kaif**
 
-* LinkedIn: [MY_LINKEDIN](https://www.linkedin.com/in/kaifalikhan/)
-* GitHub: [MY_GITHUB](https://github.com/kawfeee)
+* LinkedIn: (https://www.linkedin.com/in/kaifalikhan/)
+* GitHub: (https://github.com/kawfeee)
 
 ---
 
